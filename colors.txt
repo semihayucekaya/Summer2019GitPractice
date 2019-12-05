@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-=======
 blue
-red
-green
-black
-yellow
->>>>>>> origin/master
