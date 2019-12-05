@@ -12,3 +12,4 @@ white
 Cyan
 Azure
 French rose
+Fuchsia
